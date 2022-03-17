@@ -1,4 +1,0 @@
-default
-showScore
-lls
-llle
