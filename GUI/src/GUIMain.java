@@ -283,7 +283,7 @@ public class GUIMain {
             });
         } else if (showScore) {
 
-            m3 = new JMenuItem("Remove Score");
+            m3 = new JMenuItem("Hide Score");
             m3.addActionListener(new ActionListener() {
                 @Override
                 public void actionPerformed(ActionEvent e) {
