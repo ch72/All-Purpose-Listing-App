@@ -16,3 +16,8 @@ File -> Save: App autosaves entries, but scores will only be saved using Save
 
 Edit -> Change Color: Allows background color of list entries to be changed
 Edit -> Hide Score: Hides the entire score column
+
+Note: I wanted to make the list app directory easy to find, so it will always
+      appear in the same location as the application. This means that if the
+      app is moved, it may be disconnected from its files, so make sure list 
+      app directory is moved to that same location as well.
