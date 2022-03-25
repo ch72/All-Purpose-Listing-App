@@ -34,3 +34,7 @@ Windows: Open up command prompt, change to proper directory, and input:
 If javac does not work, download a JDK and set up environment variables
 (System -> Advanced System Settings -> Environment Variables, then edit
 Path variable and add JRE and JDK)
+
+Note: Executing on Windows can be a little messy, so if possible, try to
+      convert GUIProject.jar into an executable to allow for cleaner
+      execution (I'm working on a fix for this)
