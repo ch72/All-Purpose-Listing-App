@@ -15,8 +15,5 @@ public class Driver {
         GUIStartingInterface g1 = new GUIStartingInterface(output, score, dates);
         g1.createGUI();
 
-        //GUIMain p1 = new GUIMain(output, score);
-        //p1.createAndRunGUI();
-
     }
 }
