@@ -1,6 +1,6 @@
 # The All-Purpose-Listing-Application
 
-**Functions and Features:**
+**Functions and Features**
 
 This is a modular listing application that makes it extremely easy 
 to list out a series of items whether its a shopping list or a list of 
