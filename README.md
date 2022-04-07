@@ -24,7 +24,7 @@ Note: I wanted to make the list app directory easy to find, so it will always
 
 **How To Use**
 
-Mac: Execute GUIProject.jar
+Mac: Execute GUIproject.jar
 
 Windows: Open up command prompt, change to proper directory, and input:
 
