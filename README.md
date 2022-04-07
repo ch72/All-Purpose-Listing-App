@@ -1,5 +1,8 @@
 # The All-Purpose-Listing-Application
 
+Created in summer 2021, but was only uploaded recently because I was not
+avidly using GitHub at the time.
+
 **Functions and Features**
 
 This is a modular listing application that makes it extremely easy 
